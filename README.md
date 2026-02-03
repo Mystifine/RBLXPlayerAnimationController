@@ -71,8 +71,8 @@ You can adjust the following settings in the script:
 
 ## Dependencies
 
-* [`AnimationService`](https://github.com/your-repo/AnimationService) – Caches and plays animations.
-* [`MysLib`](https://github.com/your-repo/MysLib) – Utility library for character checks and heartbeat updates.
+* [`AnimationService`](https://github.com/Mystifine/RBLXAnimationService) – Caches and plays animations.
+* [`MysLib`](https://github.com/Mystifine/MysLib) – Utility library for character checks and heartbeat updates.
 
 ---
 
